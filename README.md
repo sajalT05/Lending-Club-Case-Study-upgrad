@@ -42,7 +42,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@sajalT05] - feel free to contact me!
+Created by [@sajalT05] - feel free to contact.
 
 
 <!-- Optional -->
