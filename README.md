@@ -36,7 +36,7 @@
 - There are many behavioural columns which are not available at the time of screening and need to be removed
 - There are many columns which need data type conversion and cleaning and outlier removal
 - The variation of rate of defaults for each variable is shown in the below table
-- <img src="https://user-images.githubusercontent.com/111374919/188313686-2f6a7d46-849b-4f2b-add6-d30614cb6c6f.png" width="170"/> <img src="https://user-images.githubusercontent.com/111374919/188314528-45e8b790-1555-482d-9ee0-400c420d0f8f.png" width="800"/> 
+- <p align="center"><img src="https://user-images.githubusercontent.com/111374919/188313686-2f6a7d46-849b-4f2b-add6-d30614cb6c6f.png" width="170"/></p> <p align="center"><img src="https://user-images.githubusercontent.com/111374919/188314528-45e8b790-1555-482d-9ee0-400c420d0f8f.png" width="800"/> </p>
 
 - The 5 most significant variables are 
     - sub_grade,
