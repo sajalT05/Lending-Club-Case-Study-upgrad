@@ -57,9 +57,9 @@
 
 
 ## Technologies Used
-- library - version 1.0
+<!--- library - version 1.0
 - library - version 2.0
-- library - version 3.0
+- library - version 3.0-->
 - jupyter - Version 1.0.0
 - Matplotlib - version 3.5.3
 - missingno - version 0.5.1
