@@ -5,8 +5,8 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Technologies Used](#technologies-used)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
@@ -14,9 +14,10 @@
 ## General Information
 - Provide general information about your project here.
   - The Project has 3 files: 
-      - 'loan.csv' containing the raw dataset from the Lending Club
-      - 'Data_Dictionary.xlsx' containing the definition of each variable
-      - 'Group_facilitator_Name.ipynb jupyter notebook containing the code of the exploratory data analysis carried out on the dataset
+      - 'loan.csv' - It contains the raw dataset from the Lending Club
+      - 'Data_Dictionary.xlsx' - It contains the definition of each variable given by Lending Club
+      - 'Group_facilitator_Name.ipynb - The jupyter notebook containing the code of the exploratory data analysis carried out on the dataset
+      - 'loan_columns.csv - csv file created using the first sheet of Data_Dcitionary.xlsx file
 - What is the background of your project?
   -  It stems from the business need to reduce the loan defaults and increase the profit of investors
 - What is the business probem that your project is trying to solve?
@@ -36,7 +37,7 @@
 - There are many behavioural columns which are not available at the time of screening and need to be removed
 - There are many columns which need data type conversion and cleaning and outlier removal
 - The variation of rate of defaults for each variable is shown in the below table
-- <p align="center"><img src="https://user-images.githubusercontent.com/111374919/188313686-2f6a7d46-849b-4f2b-add6-d30614cb6c6f.png" width="170"/></p> <p align="center"><img src="https://user-images.githubusercontent.com/111374919/188314528-45e8b790-1555-482d-9ee0-400c420d0f8f.png" width="800"/> </p>
+- <p align="center"><img src="https://user-images.githubusercontent.com/111374919/188484166-d98af3b9-7e36-471a-81d0-97f1010925dd.png"/></p> <p align="center"><img src="https://user-images.githubusercontent.com/111374919/188484254-915d3acf-7f28-4117-8192-4f9b3fa8e851.png" width="800"/> </p>
 
 - The 5 most significant variables are 
     - sub_grade,
@@ -77,6 +78,10 @@ Give credit here.
   - The variable definitions and some more understanding of the dataset came from
     - https://www.cs.dartmouth.edu/~lorenzo/teaching/cs174/Archive/Winter2015/Projects/proposals/fmz.pdf
     - https://www.rubydoc.info/gems/lending_club/0.0.2/LendingClub/Loan
+  - The syntax and package usage information came from
+    - https://pandas.pydata.org/docs/getting_started/index.html
+    - https://stackoverflow.com/
+    - https://seaborn.pydata.org/index.html
 <!--- This project was based on [this tutorial](https://www.example.com).-->
 
 
