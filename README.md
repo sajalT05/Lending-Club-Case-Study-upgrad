@@ -44,13 +44,13 @@
     - int_rate, 
     - grade, 
     - pub_rec_bankruptcies 
-    - loan_amnt
+    - purpose
 - But some of these variables are highly correlated. After removing the variables with high correlation, the 5 most significant variables are
     - sub_grade
     - int_rate
     - pub_rec_bankruptcies
-    - loan_amnt
-    - home_ownership
+    - purpose
+    - term
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
